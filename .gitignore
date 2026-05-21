@@ -2,5 +2,8 @@ subconverter.exe
 .vscode
 cmake-build-debug
 .idea
+.DS_Store
+base/.env
 base/cache
+base/pref.yml
 build
