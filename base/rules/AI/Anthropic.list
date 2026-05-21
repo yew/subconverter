@@ -1,0 +1,10 @@
+# Source: https://github.com/G4free/clash-ruleset/blob/main/ruleset/anthropic.txt
+
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN-SUFFIX,claudemcpclient.com
+DOMAIN,cdn.usefathom.com
+# CDN
+DOMAIN-SUFFIX,servd-anthropic-website.b-cdn.net

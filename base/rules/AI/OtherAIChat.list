@@ -1,0 +1,5 @@
+# Source: https://github.com/G4free/clash-ruleset/blob/main/ruleset/OtherAIChat.txt
+
+# Jetbrains AI Assistant
+DOMAIN-SUFFIX,grazie.aws.intellij.net
+DOMAIN-SUFFIX,grazie.ai

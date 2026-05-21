@@ -4,6 +4,11 @@
 🛑 全球拦截,rules/NobyDa/Surge/AdRule.list
 🛑 全球拦截,rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list
 ;🎥 NETFLIX,rules/DivineEngine/Surge/Ruleset/StreamingMedia/Video/Netflix.list
+🤖 非香港选择,rules/AI/Anthropic.list
+🤖 非香港选择,rules/AI/ChatGPT.list
+🤖 非香港选择,rules/AI/Gemini.list
+🤖 非香港选择,rules/AI/OtherAIChat.list
+🤖 非香港选择,rules/TikTok/TikTok.list
 🌍 国外媒体,rules/DivineEngine/Surge/Ruleset/StreamingMedia/Streaming.list
 🌏 国内媒体,rules/lhie1/Surge/Surge 3/Provider/Media/Bilibili.list
 🌏 国内媒体,rules/lhie1/Surge/Surge 3/Provider/Media/iQiyi.list
